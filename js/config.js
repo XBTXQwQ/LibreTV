@@ -292,10 +292,6 @@ const API_SITES = {
         api: 'https://www.911ysw.top/tianyi.php/provide/vod/',
         name: '天翼|点播',
     },
-    huya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod/',
-        name: '虎牙|点播',
-    },
     piaoling: {
         api: 'https://p2100.net/api.php/provide/vod/',
         name: '飘零|点播',
