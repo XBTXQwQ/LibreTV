@@ -22,6 +22,22 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    youzhi: {
+        api: 'http://api.1080zyku.com/inc/api.php/provide/vod',
+        name: '优质资源库',
+    },
+    kaifang: {
+        api: 'http://vod-demo.onrender.com/pubdovod.php',
+        name: '開放電影',
+    },
+    hongniu: {
+        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '红牛資源',
+    },
+    qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
+    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
